@@ -23,8 +23,15 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### PROGRAM
 ```
-#Reg.No -212223060014
-#Name- AKSHAYA SETTU
+#Reg.No -212223060129
+#Name- KOWSALYA V
+
+x=int(input())
+y=int(input())
+if(x<y):
+    print(x,"is smaller than",y)
+else:
+    print(y,"is smaller than",x)
 
 x=int(input())
 y=int(input())
